@@ -1,0 +1,21 @@
+{
+  "name": "tv-show-rest-api",
+  "version": "1.0.0",
+  "description": "This will give proper exposure to Angular and React application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "express": "^4.8.1",
+    "fs": "0.0.1-security",
+    "mongoose": "^4.11.10",
+    "path": "^0.12.7",
+    "versions": "^7.0.5"
+  }
+}

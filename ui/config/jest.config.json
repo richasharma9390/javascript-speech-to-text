@@ -1,0 +1,7 @@
+{
+    "rootDir": "../",
+    "testRegex": "(<rootDir>/tests/.*|(\\.|/)(test|spec))\\.jsx?$",
+    "setupFilesAfterEnv": [
+      "<rootDir>/config/jest.setup.js"
+    ]
+}
